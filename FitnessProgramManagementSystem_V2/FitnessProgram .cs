@@ -8,7 +8,7 @@ namespace FitnessProgramManagementSystem_V2
 {
     internal class FitnessProgram
     {
-        static string ConnectionString = "(server= (localdb)\\MSSQLLocalDB,DATABASE=FitnessPrograms)";
+       
 
         public string FitnessProgramId {  get; set; }
         public string Title { get; set; }
